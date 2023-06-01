@@ -1,0 +1,104 @@
+2023-05-27 14:12:39,784 - Log -INFO - The actual LogIn page Text is :- LOGIN Panel
+2023-05-27 14:12:39,794 - Log -INFO - The expected LogIn Page Text is :-LOGIN Panel
+2023-05-27 14:12:39,801 - Log -INFO -  Validating LogIn Page LogInPanel Text Successfull - Naviagated to LogIN Page
+2023-05-27 14:12:41,844 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-27 14:12:43,324 - Log -INFO - Validating OHRM Application LogInPage Logo
+2023-05-27 14:12:43,331 - Log -INFO - OrangeHRM Application LogIN Page does not contains OrangeHRMLogo - FAIL
+2023-05-27 14:12:43,341 - Log -INFO -  OrangeHRM Appliction LogIn Page Logo existing
+2023-05-27 14:16:41,508 - Log -INFO - The actual LogIn page Text is :- LOGIN Panel
+2023-05-27 14:16:41,521 - Log -INFO - The expected LogIn Page Text is :-LOGIN Panel
+2023-05-27 14:16:41,533 - Log -INFO -  Validating LogIn Page LogInPanel Text Successfull - Naviagated to LogIN Page
+2023-05-27 14:16:45,590 - Log -INFO - Validating OHRM Application LogInPage Logo
+2023-05-27 14:16:45,595 - Log -INFO - OrangeHRM Application LogIN Page does not contains OrangeHRMLogo - FAIL
+2023-05-27 14:16:45,604 - Log -INFO -  OrangeHRM Appliction LogIn Page Logo existing
+2023-05-27 14:17:13,080 - Log -INFO - The actual LogIn page Text is :- LOGIN Panel
+2023-05-27 14:17:13,088 - Log -INFO - The expected LogIn Page Text is :-LOGIN Panel
+2023-05-27 14:17:13,093 - Log -INFO -  Validating LogIn Page LogInPanel Text Successfull - Naviagated to LogIN Page
+2023-05-27 14:17:17,578 - Log -INFO - Validating OHRM Application LogInPage Logo
+2023-05-27 14:17:17,582 - Log -INFO - OrangeHRM Application LogIN Page does not contains OrangeHRMLogo - FAIL
+2023-05-27 14:17:17,588 - Log -INFO -  OrangeHRM Appliction LogIn Page Logo existing
+2023-05-27 14:22:51,848 - Log -INFO - The actual LogIn page Text is :- LOGIN Panel
+2023-05-27 14:22:51,857 - Log -INFO - The expected LogIn Page Text is :-LOGIN Panel
+2023-05-27 14:22:51,863 - Log -INFO -  Validating LogIn Page LogInPanel Text Successfull - Naviagated to LogIN Page
+2023-05-27 14:22:55,237 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-27 14:22:55,825 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-27 14:22:56,470 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-27 14:22:57,606 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-27 14:22:58,124 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-27 14:22:58,825 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-27 14:22:59,466 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-27 14:23:00,084 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-27 14:23:02,101 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-27 14:23:04,085 - Log -INFO - Validating OHRM Application LogInPage Logo
+2023-05-27 14:23:04,091 - Log -INFO - OrangeHRM Application LogIN Page does not contains OrangeHRMLogo - FAIL
+2023-05-27 14:23:04,095 - Log -INFO -  OrangeHRM Appliction LogIn Page Logo existing
+2023-05-29 07:47:11,200 - Log -INFO - The actual LogIn page Text is :- LOGIN Panel
+2023-05-29 07:47:11,218 - Log -INFO - The expected LogIn Page Text is :-LOGIN Panel
+2023-05-29 07:47:11,223 - Log -INFO -  Validating LogIn Page LogInPanel Text Successfull - Naviagated to LogIN Page
+2023-05-29 07:47:16,327 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 07:47:16,902 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 07:47:17,593 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 07:47:18,389 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 07:47:18,865 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 07:47:19,440 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 07:47:20,012 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 07:47:20,625 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 07:47:23,142 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 07:47:40,280 - Log -INFO - Validating OHRM Application LogInPage Logo
+2023-05-29 07:47:40,283 - Log -INFO - OrangeHRM Application LogIN Page does not contains OrangeHRMLogo - FAIL
+2023-05-29 07:47:40,289 - Log -INFO -  OrangeHRM Appliction LogIn Page Logo existing
+2023-05-29 07:48:23,641 - Log -INFO - The actual LogIn page Text is :- LOGIN Panel
+2023-05-29 07:48:23,648 - Log -INFO - The expected LogIn Page Text is :-LOGIN Panel
+2023-05-29 07:48:23,653 - Log -INFO -  Validating LogIn Page LogInPanel Text Successfull - Naviagated to LogIN Page
+2023-05-29 07:48:41,318 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 07:48:41,861 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 07:48:42,505 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 07:48:43,754 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 07:48:44,327 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 07:48:45,057 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 07:48:45,622 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 07:48:46,266 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 07:48:48,430 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 07:48:50,364 - Log -INFO - Validating OHRM Application LogInPage Logo
+2023-05-29 07:48:50,373 - Log -INFO - OrangeHRM Application LogIN Page does not contains OrangeHRMLogo - FAIL
+2023-05-29 07:48:50,383 - Log -INFO -  OrangeHRM Appliction LogIn Page Logo existing
+2023-05-29 07:55:54,112 - Log -INFO - The actual LogIn page Text is :- LOGIN Panel
+2023-05-29 07:55:54,119 - Log -INFO - The expected LogIn Page Text is :-LOGIN Panel
+2023-05-29 07:55:54,125 - Log -INFO -  Validating LogIn Page LogInPanel Text Successfull - Naviagated to LogIN Page
+2023-05-29 07:55:57,119 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 07:55:57,613 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 07:55:58,232 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 07:55:59,410 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 07:55:59,987 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 07:56:00,612 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 07:56:01,164 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 07:56:01,758 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 07:56:03,747 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 07:56:06,215 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 07:56:06,846 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 07:56:07,516 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 07:56:08,694 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 07:56:09,256 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 07:56:09,857 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 07:56:10,401 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 07:56:10,969 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 07:56:12,983 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 07:56:13,029 - Log -INFO - Actual_OrangeHRM HomePage Admin Text is:-Admin
+2023-05-29 07:56:13,032 - Log -INFO - Expected_OrangeHRM HomePage Admin Text is:-Admin
+2023-05-29 07:56:14,880 - Log -INFO - Validating OHRM Application LogInPage Logo
+2023-05-29 07:56:14,883 - Log -INFO - OrangeHRM Application LogIN Page does not contains OrangeHRMLogo - FAIL
+2023-05-29 07:56:14,889 - Log -INFO -  OrangeHRM Appliction LogIn Page Logo existing
+2023-05-29 11:38:10,428 - Log -INFO - The actual LogIn page Text is :- LOGIN Panel
+2023-05-29 11:38:10,447 - Log -INFO - The expected LogIn Page Text is :-LOGIN Panel
+2023-05-29 11:38:10,458 - Log -INFO -  Validating LogIn Page LogInPanel Text Successfull - Naviagated to LogIN Page
+2023-05-29 11:38:15,057 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 11:38:15,575 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 11:38:16,206 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 11:38:17,183 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 11:38:17,688 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 11:38:18,185 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 11:38:18,705 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 11:38:19,204 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 11:38:20,678 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 11:38:22,831 - Log -INFO - Validating OHRM Application LogInPage Logo
+2023-05-29 11:38:22,836 - Log -INFO -  OrangeHRM Appliction LogIn Page Logo existing

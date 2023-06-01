@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [OrangeHRM]">
+  <test thread-count="5" parallel="tests" name="AddEmployee(failed)">
+    <classes>
+      <class name="com.TestCases.OrangeHRM_AddEmployee">
+        <methods>
+          <include name="ORGHrmTest2"/>
+          <include name="teardown"/>
+          <include name="ORGHrmTest"/>
+          <include name="AddEmployeeFullNameTestData"/>
+          <include name="AddEmployeeFirstNameTestData1"/>
+          <include name="WelcomeAdmin"/>
+          <include name="AddEmployee"/>
+          <include name="AddEmployeeHeaderTest"/>
+          <include name="logInPageValidationTest"/>
+          <include name="Setup"/>
+        </methods>
+      </class> <!-- com.TestCases.OrangeHRM_AddEmployee -->
+    </classes>
+  </test> <!-- AddEmployee(failed) -->
+  <test thread-count="5" parallel="tests" name="logIn(failed)">
+    <classes>
+      <class name="com.TestCases.LogInTest">
+        <methods>
+          <include name="ORGHrmTest2"/>
+          <include name="teardown"/>
+          <include name="ORGHrmTest"/>
+          <include name="WelcomeAdmin"/>
+          <include name="logInPageValidationTest"/>
+          <include name="Setup"/>
+        </methods>
+      </class> <!-- com.TestCases.LogInTest -->
+    </classes>
+  </test> <!-- logIn(failed) -->
+</suite> <!-- Failed suite [OrangeHRM] -->
